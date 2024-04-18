@@ -1,9 +1,9 @@
 <h1 align="center">Hi👋, I'm Samuel</h1>
 <h3 align="center">A passionate Spanish software developer eager to create a wide range of projects</h3>
 
-- 🔭 I’m currently working on **The Odin Project**
+- 🔭 I’m currently working as a **Backend Developer**
 
-- 🌱 I’m currently learning **Node**
+- 🌱 I’m currently learning **Ruby**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Samuel-96?tab=repositories](https://github.com/Samuel-96?tab=repositories)
 
