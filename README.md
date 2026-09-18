@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working as a **Backend Developer**
 
-- 🌱 I’m currently learning **Ruby**
-
 - 👨‍💻 All of my projects are available at [https://github.com/Samuel-96?tab=repositories](https://github.com/Samuel-96?tab=repositories)
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/samuel-amat/](https://www.linkedin.com/in/samuel-amat/)
